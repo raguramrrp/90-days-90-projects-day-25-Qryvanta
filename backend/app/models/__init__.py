@@ -1,0 +1,65 @@
+from app.models.user import User, Customer, Department, Agent, AgentDepartment
+from app.models.ticket import (
+    Category,
+    Ticket,
+    TicketMessage,
+    TicketAssignment,
+    TicketEvent,
+    TicketRelation,
+    TicketAttachment,
+)
+from app.models.intelligence import (
+    ModelVersion,
+    TicketPrediction,
+    TicketFeedback,
+    KnowledgeArticle,
+    KnowledgeRecommendation,
+)
+from app.models.operations import (
+    SLAPolicy,
+    SLATracking,
+    RoutingRule,
+    Holiday,
+    AppSetting,
+    AuditLog,
+    Company,
+)
+from app.models.incidents import (
+    Incident,
+    IncidentTicket,
+    IncidentEvent,
+    ResolutionFeedback,
+    KnowledgeGap,
+)
+
+__all__ = [
+    "User",
+    "Customer",
+    "Department",
+    "Agent",
+    "AgentDepartment",
+    "Category",
+    "Ticket",
+    "TicketMessage",
+    "TicketAssignment",
+    "TicketEvent",
+    "TicketRelation",
+    "TicketAttachment",
+    "ModelVersion",
+    "TicketPrediction",
+    "TicketFeedback",
+    "KnowledgeArticle",
+    "KnowledgeRecommendation",
+    "SLAPolicy",
+    "SLATracking",
+    "RoutingRule",
+    "Holiday",
+    "AppSetting",
+    "AuditLog",
+    "Company",
+    "Incident",
+    "IncidentTicket",
+    "IncidentEvent",
+    "ResolutionFeedback",
+    "KnowledgeGap",
+]

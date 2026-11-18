@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+venv/
+env/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environment & Secrets
+.env
+.env.local
+.env.*.local
+
+# Database & Local Uploads
+*.db
+*.sqlite3
+*.sqlite3-journal
+backend/uploads/*
+!backend/uploads/.gitkeep
+
+# Trained Model Artifacts (generated locally via train_classifier.py)
+ml/models/*.joblib
+!ml/models/.gitkeep
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/coverage/
+
+# Local Screenshots (kept locally, not uploaded to git)
+screenshots/
+
+# Logs & OS
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

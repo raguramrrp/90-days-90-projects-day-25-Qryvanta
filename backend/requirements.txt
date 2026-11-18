@@ -1,0 +1,30 @@
+# QRYVANTA Backend & ML Dependencies
+# Compatible with Python 3.11+ (tested on Python 3.14 on Windows)
+
+# Web Framework & API
+fastapi>=0.115.0
+uvicorn[standard]>=0.32.0
+pydantic>=2.10.0
+pydantic-settings>=2.6.0
+email-validator>=2.2.0
+python-multipart>=0.0.12
+python-dotenv>=1.0.1
+
+# Database & Migrations
+SQLAlchemy>=2.0.36
+alembic>=1.14.0
+psycopg[binary]>=3.2.0
+
+# Authentication & Security
+bcrypt>=4.2.0
+PyJWT>=2.9.0
+
+# Machine Learning & Data Processing
+pandas>=2.2.3
+numpy>=2.1.0
+scikit-learn>=1.6.0
+joblib>=1.4.2
+
+# Testing
+pytest>=8.3.4
+httpx>=0.27.0
