@@ -76,53 +76,25 @@ QRYVANTA enforces backend role-based access control across **four distinct roles
 
 ## Screenshots
 
-All screenshots below were captured directly from the running QRYVANTA application (`1440x900`).
+All 6 highlight screenshots below were captured directly from the running QRYVANTA application (`1440×900`).
 
-### Customer Portal — Home ("How can we help you today?")
-![Customer Home](screenshots/customer-home.png)
+### 1. Customer Portal — Home ("How can we help you today?")
+![Customer Portal Home](docs/images/01-customer-home.png)
 
-### Customer Portal — Simplified Complaint Submission
-![Customer Submit Complaint](screenshots/customer-submit.png)
+### 2. Customer Portal — 4-Step Complaint Tracking & Conversation
+![Customer Complaint Tracking](docs/images/02-customer-tracking.png)
 
-### Customer Portal — My Complaints & Complaint Tracking Timeline
-![Customer Complaints](screenshots/customer-complaints.png)
-![Customer Complaint Detail](screenshots/customer-detail.png)
+### 3. Staff Workspace — Operations Overview & Live Incident Summary
+![Operations Overview](docs/images/03-staff-overview.png)
 
-### Customer Portal — Help Centre (Published Articles & Contact Support)
-![Customer Help Centre](screenshots/customer-help.png)
+### 4. Staff Workspace — Ticket Queue (Verification, SLA Risk & Status)
+![Ticket Queue](docs/images/04-staff-ticket-queue.png)
 
-### Operations Overview (Attention Required, Incident Summary & Live Insights)
-![Operations Overview](screenshots/overview.png)
+### 5. Staff Workspace — Three-Column Ticket Detail & Company Handoff Brief
+![Ticket Detail Workspace](docs/images/05-staff-ticket-detail.png)
 
-### Incident Centre (TF-IDF Grouping, Unique Affected Customers & Investigation)
-![Incident Centre](screenshots/incidents.png)
-
-### Risk & Workload Operations (SLA Breach Risk, Capacity Bands & Manager Approvals)
-![Risk and Workload](screenshots/operations.png)
-
-### Resolution Intelligence & Knowledge Gaps (FCR, Verified Resolutions & Draft KB)
-![Resolution Intelligence](screenshots/resolution-intelligence.png)
-
-### Portals, Companies & Verification Handoff Reporting
-![Portals and Companies](screenshots/portals.png)
-
-### Ticket Submission with Platform, Company & External Reference Selection
-![Submit Ticket](screenshots/submit-ticket.png)
-
-### Ticket Queue & Portal / Verification Filtering
-![Ticket Queue](screenshots/ticket-queue.png)
-
-### Three-Column Ticket Detail Workspace (Conversation, Private Notes, Verification Handoff, ML Intelligence & SLA)
-![Ticket Detail Workspace](screenshots/ticket-detail.png)
-
-### Operational Intelligence & Live Classification Test Bench
-![Operational Intelligence](screenshots/intelligence.png)
-
-### Model Centre (Held-Out Metrics, Per-Category Breakdown & Controlled Retraining)
-![Model Centre](screenshots/model-centre.png)
-
-### Workspace Login & Local Demo Role Selector
-![Login Screen](screenshots/login.png)
+### 6. Staff Workspace — Incident Centre (TF-IDF Clustering & Unique Affected Customers)
+![Incident Centre](docs/images/06-staff-incident-centre.png)
 
 ---
 
