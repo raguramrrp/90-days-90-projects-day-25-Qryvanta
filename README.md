@@ -380,13 +380,6 @@ See [docs/TESTING.md](docs/TESTING.md) for full details.
 
 ---
 
-## Learning Outcomes & Portfolio Skills
-
-- **Software Engineering**: Full-stack React + TypeScript + FastAPI architecture, normalized relational modeling (23 tables), RBAC security, business-hours scheduling algorithms, and automated full-stack testing.
-- **Applied NLP & ML**: Leakage-free group-stratified model evaluation, TF-IDF + Logistic Regression hierarchical classification, feature-level explainability, cosine similarity retrieval, and human-in-the-loop retraining loops.
-- **Keywords**: `FastAPI`, `React`, `TypeScript`, `Tailwind CSS`, `SQLAlchemy`, `PostgreSQL`, `Scikit-learn`, `TF-IDF`, `Logistic Regression`, `Human-in-the-Loop ML`, `RBAC`, `SLA Engine`, `Pytest`, `Vitest`, `Docker`.
-
----
 
 ## License
 
